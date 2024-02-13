@@ -1,1 +1,1 @@
-Power BI is a powerful business analytics tool developed by Microsoft that allows users to visualize and analyze data. It provides interactive visualizations and business intelligence capabilities with a simple interface for end-users to create reports and dashboards.
+Power BI Project
