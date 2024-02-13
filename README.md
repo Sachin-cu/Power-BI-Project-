@@ -1,2 +1,1 @@
-# Sales-Insights-Using-Power-BI
-AIM: To visualize and analyze sales data to gain  actionable insights that can improve sales performance  and drive business growth
+Power BI is a powerful business analytics tool developed by Microsoft that allows users to visualize and analyze data. It provides interactive visualizations and business intelligence capabilities with a simple interface for end-users to create reports and dashboards.
